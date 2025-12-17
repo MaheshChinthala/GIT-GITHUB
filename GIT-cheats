@@ -1,0 +1,9 @@
+git init --->initilazes the new  git repository in the current directory.
+Eg: git init
+git clone --->Coplies a remote repository to the local machine
+Eg: git clone https://github.com/MaheshChinthala/GIT-GITHUB.git
+git status--->Displays the state of the working directory and staging area.
+Eg:git status
+git add --->Adds changes to the staging area.
+Eg:git add file.txt
+Git 
