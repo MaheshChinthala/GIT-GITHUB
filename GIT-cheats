@@ -6,4 +6,15 @@ git status--->Displays the state of the working directory and staging area.
 Eg:git status
 git add --->Adds changes to the staging area.
 Eg:git add file.txt
-Git 
+Git commit --->Records chnages to the repository
+Eg:git commit -m "initial commit"
+git config---> configures users setting, such as name and email.
+eg: git config --global user.name"user name"
+git log--->shows the commit history
+eg:git log
+git show---> displays the detailed information about a specific commit.
+Eg: git show
+git diff --->show the changes b/w the commits, the working dirctory, and the staging area.
+eg:git diff
+git resets--->unstages chnages and resets the commits.
+eg: git reset HEAD one.txt
